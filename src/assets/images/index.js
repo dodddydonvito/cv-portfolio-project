@@ -1,0 +1,8 @@
+export const Social1 = require('./Social-1.png')
+export const Social2 = require('./Social-2.png')
+export const Social3 = require('./Social-3.png')
+export const Social4 = require('./Social-4.png')
+export const Social5 = require('./Social-5.png')
+export const Social6 = require('./Social--.png')
+export const Social7 = require('./Social-6.png')
+export const Social8 = require('./Social-7.png')
